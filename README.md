@@ -23,3 +23,4 @@ Editor used: [Neovim btw](https://github.com/badhan-abhishek/nvimdot)
 | --- | ---------------------------------------------------------- | ----------- |
 | 1   | [Day-1](http://ziglang.org/documentation/0.13.0/#Integers) | 31 Jan 2025 |
 | 2   | [Day-2](https://ziglang.org/documentation/0.13.0/#Multidimensional-Arrays) | 1 Feb 2025 |
+| 3   | [Day-3](https://ziglang.org/documentation/0.13.0/#volatile) | 3 Feb 2025 |
